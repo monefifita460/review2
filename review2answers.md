@@ -2,7 +2,7 @@
 <h1 id="first-field">
 .inner-flex{}
 h1
-.h1{font-size: 6rem;}
+h1{font-size: 6rem;}
 let response =
 let price=5
 let response = "respose";
